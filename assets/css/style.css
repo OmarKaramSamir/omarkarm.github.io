@@ -21,7 +21,7 @@ body::before {
 
 img{
   display: flex;
-  max-width: 50%;
+  width: 50%;
   margin-inline: auto;
   margin-top: -10%;
 }
