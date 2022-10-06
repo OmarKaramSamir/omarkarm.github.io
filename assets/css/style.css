@@ -1,10 +1,3 @@
-/**
-* Template Name: ComingSoon - v4.8.0
-* Template URL: https://bootstrapmade.com/comingsoon-free-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -24,6 +17,13 @@ body::before {
   top: 0;
   bottom: 0;
   background: rgba(34, 34, 34, 0.8);
+}
+
+img{
+  display: flex;
+  max-width: 50%;
+  margin-inline: auto;
+  margin-top: -10%;
 }
 
 @media (min-width: 1024px) {
